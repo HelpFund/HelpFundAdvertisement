@@ -1,0 +1,26 @@
+{
+    "ads": [
+        {
+            "id": 0,
+            "name": "Welcome Message",
+            "image": "images/welcome.png",
+            "added_on": "2021/12/1"
+        }, {
+            "id": 1,
+            "name": "Help Those In Need",
+            "image": "images/helpthoseinneed.png",
+            "added_on": "2021/12/1"
+        }, {
+            "id": 2,
+            "name": "Founder\/'s Message",
+            "image": "images/foundermsg.png",
+            "added_on": "2021/12/1"
+        }, {
+            "id": 3,
+            "name": "Vacinnation Message",
+            "image": "images/vaccinationmsg.png",
+            "added_on": "2021/12/1"
+        }
+
+    ]
+}
